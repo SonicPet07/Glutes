@@ -1,0 +1,5 @@
+VideoPy/.venv
+*.mp4
+VideoPy/gifMaker.py
+
+VideoPy/main.py
